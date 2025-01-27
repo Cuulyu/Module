@@ -17,7 +17,7 @@ TG频道群：https://t.me/py996
 
 [rewrite_local]
 
-^https?:\/\/api\.revenuecat\.com\/v1\/(receipts|subscribers\/\$RCAnonymousID%3A\w{32})$ url script-response-body https://raw.githubusercontent.com/Cuulyu/Module/main/src/Retouch Unlock.js
+^https?:\/\/api\.revenuecat\.com\/v1\/(receipts|subscribers\/\$RCAnonymousID%3A\w{32})$ url script-response-body https://raw.githubusercontent.com/Cuulyu/Module/main/src/RetouchUnlock.js
 
 [mitm] 
 
